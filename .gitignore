@@ -1,0 +1,9 @@
+# Archivos temporales del editor
+*~
+*.swp
+# Logs
+*.log
+# Archivos del sistema
+.DS_Store
+# Notas personales que no van al repositorio
+notas.txt
