@@ -17,7 +17,7 @@ Azul estrella		#009FE3	Elementos digitales, íconos pixelados
    ========================= */
 
 body {
-  font-family: Arial, Helvetica, sans-serif; /* Define la familia tipográfica general. */
+  font-family: "Courier New", monospace; /* Define la familia tipográfica general. */
   line-height: 1.5; /* Separa verticalmente las líneas de texto. */
   color: #005EB8;   /* Azul medio para texto destacado */
   background-color: #cbeef3; /* Blanco nieve como fondo general */
